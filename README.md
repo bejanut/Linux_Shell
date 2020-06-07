@@ -6,7 +6,7 @@ Grep
 pentru a determina daca sirul cautat exista intr-o linie citita. Se numara de
 cate ori se gasea sirul cautat, liniei ii era marita dimensiunea, iar sirurile
 gasite se colorau. Dupa acest procedeu se afisa linia.
-
+------------------------------------------------------------------------------------
 
 Cut
 
